@@ -16,7 +16,7 @@ function Navbar() {
         />
       </Link>
       <div className="flex items-center mr-4 md:mr-0">
-        <button className="bg-brand-orange text-white px-3 py-1.5 sm:px-4 md:px-8 md:py-2.5 rounded-md text-sm md:text-base font-semibold hover:text-brand-orange hover:bg-white hover:border-2 hover:border-brand-orange border-2 border-transparent transition duration-300 ease-in-out">
+        <button className="bg-brand-emerald text-white px-3 py-1.5 sm:px-4 md:px-8 md:py-2.5 rounded-md text-sm md:text-base font-semibold hover:text-brand-emerald hover:bg-white hover:border-2 hover:border-brand-emerald border-2 border-transparent transition duration-300 ease-in-out">
           Sign In
         </button>
       </div>
